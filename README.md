@@ -45,13 +45,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 3. **View Results**: Get your mock exam results with subject-wise marks
 4. **Celebrate**: Pass or fail, you'll get a funny comment! 🎉
 
-## 📱 Screenshots
-
-- Landing page with exam selection
-- Interactive form with validation
-- Animated results page with grades
-- Subject-wise performance breakdown
-
 ## 🤝 Contributing
 
 1. Fork the repository
